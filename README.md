@@ -1,6 +1,4 @@
 # 💼 Sales Dashboard - Power BI  
-![image](https://github.com/user-attachments/assets/9220aea4-0e4e-469c-bebc-f408255ac343)
-
 
 
 ## 📊 Project Overview  
@@ -37,4 +35,5 @@ The Power BI dashboard includes:
 - **Total Sales by Category** – A bar chart displaying sales figures across Consumer, Corporate, and Home Office segments in Technology, Office Supplies, and Furniture.  
 - **Sales & Profit Trends** – A line graph tracking sales and profit growth from 2011 to 2014.  
 - **Profit by Country** – A map visualization highlighting profit distribution across European countries, including Austria, Belgium, France, Germany, Italy, and more.  
-- **Profit & Sales Breakdown** – A pie chart showcasing the distribution of profit and sales among countries such as the UK, Germany, France, Spain, Austria, Italy, Belgium, Switzerland, and Norway.  
+- **Profit & Sales Breakdown** – A pie chart showcasing the distribution of profit and sales among countries such as the UK, Germany, France, Spain, Austria, Italy, Belgium, Switzerland, and Norway.
+- ![image](https://github.com/user-attachments/assets/9220aea4-0e4e-469c-bebc-f408255ac343)
