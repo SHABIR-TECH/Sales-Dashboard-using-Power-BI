@@ -1,4 +1,7 @@
 # 💼 Sales Dashboard - Power BI  
+![image](https://github.com/user-attachments/assets/9220aea4-0e4e-469c-bebc-f408255ac343)
+
+
 
 ## 📊 Project Overview  
 This repository contains a **Power BI dashboard** that provides actionable insights into **sales and profit trends** using interactive data visualizations. The dataset covers various categories, regions, and time periods, helping businesses make informed decisions.  
